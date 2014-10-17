@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zsu:home|Door43 (zsu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zsu|d43-zsu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zsu/archive/master.zip|d43-zsu.zip]]
+
+**Recent Changes**
+{{changes>ns = zsu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zsu|Ethnologue data]]
+
